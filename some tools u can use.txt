@@ -1,6 +1,5 @@
 http://trotinit.pythonanywhere.com : to solve norm errors
 https://github.com/khairulhaaziq/mini-moulinette : mini-moulinette 
-https://ohmyz.sh/ : add colors to ur terminal
 https://grademe.fr/ : to prepare for the exams
 
 good luck young novice!!!
